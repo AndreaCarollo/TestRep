@@ -1,0 +1,22 @@
+git clone https://github.com/AndreaCarollo/TestRep.git
+
+# scariare update
+git pull
+
+# to add all the file in the folder
+git add .
+# oppure
+git add <nomefile>
+
+# per vedere status
+git status
+
+# per "caricare" ma in locale
+git commit -m "add readme" -m"questa è una descrizione"
+
+# per push on git
+git push origin master
+
+
+# vedere cronologia modifiche
+git log
