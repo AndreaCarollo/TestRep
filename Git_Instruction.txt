@@ -21,13 +21,12 @@ git push origin master
 # vedere cronologia modifiche
 git log
 
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+# Vedere branches
+git branch
+
+# creare branch
+git branch <nomebranch>
+
+# cambiare branch
+git checkout <nomebranch>
+
