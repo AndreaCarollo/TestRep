@@ -20,3 +20,14 @@ git push origin master
 
 # vedere cronologia modifiche
 git log
+
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
